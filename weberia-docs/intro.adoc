@@ -1,0 +1,6 @@
+[intro]
+Introduction to Weberia
+=======================
+Weberia is a software framework for pragmatic web systems.
+
+This is the starting point of weberia documentation.
